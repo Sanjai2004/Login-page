@@ -1,0 +1,25 @@
+{
+  "name": "basic-login-page",
+  "version": "1.0.0",
+  "description": "Basic login page",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanjai2004/Login-page.git"
+  },
+  "author": "SANJAI S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanjai2004/Login-page/issues"
+  },
+  "homepage": "https://github.com/Sanjai2004/Login-page#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1"
+  }
+}
